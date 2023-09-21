@@ -34,3 +34,4 @@ C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.
 C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\MVC_Estudo.pdb
 C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\MVC_Estudo.genruntimeconfig.cache
 C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\MVC_Estudo.csproj.CopyComplete
+C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs

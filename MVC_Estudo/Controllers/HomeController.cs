@@ -1,10 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MVC_Estudo.Models;
-using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace MVC_Estudo.Controllers
 {
@@ -17,7 +13,8 @@ namespace MVC_Estudo.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Salles web MVC app from C# Course";
+            ViewData["email"] = "meu_email@gmail.com";
 
             return View();
         }
