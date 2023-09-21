@@ -3,14 +3,16 @@ using System;
 using MVC_Estudo.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace MVC_Estudo.Migrations
 {
     [DbContext(typeof(MVC_EstudoContext))]
-    partial class MVC_EstudoContextModelSnapshot : ModelSnapshot
+    [Migration("20230921113445_OtherEntities")]
+    partial class OtherEntities
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
