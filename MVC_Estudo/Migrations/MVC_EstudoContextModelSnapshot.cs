@@ -4,6 +4,7 @@ using MVC_Estudo.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
+using MVC_Estudo.Models;
 
 namespace MVC_Estudo.Migrations
 {

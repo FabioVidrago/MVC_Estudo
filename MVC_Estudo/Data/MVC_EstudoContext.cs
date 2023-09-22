@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-using MVC_Estudo.Models;
+﻿using Microsoft.EntityFrameworkCore;
 
-namespace MVC_Estudo.Data
+namespace MVC_Estudo.Models
 {
     public class MVC_EstudoContext : DbContext
     {
-        public MVC_EstudoContext (DbContextOptions<MVC_EstudoContext> options)
+        public MVC_EstudoContext(DbContextOptions<MVC_EstudoContext> options)
             : base(options)
         {
         }
