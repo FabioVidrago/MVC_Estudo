@@ -42,3 +42,4 @@ C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.
 C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
 C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
