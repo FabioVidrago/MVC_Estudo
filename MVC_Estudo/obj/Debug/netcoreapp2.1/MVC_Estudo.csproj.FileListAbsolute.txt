@@ -7,7 +7,6 @@ C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\bin\Debug\netcoreapp2.
 C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\bin\Debug\netcoreapp2.1\MVC_Estudo.pdb
 C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\bin\Debug\netcoreapp2.1\MVC_Estudo.Views.dll
 C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\bin\Debug\netcoreapp2.1\MVC_Estudo.Views.pdb
-C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\MVC_Estudo.csproj.AssemblyReference.cache
 C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\MVC_Estudo.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\MVC_Estudo.AssemblyInfoInputs.cache
 C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\MVC_Estudo.AssemblyInfo.cs
@@ -46,3 +45,4 @@ C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.
 C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
 C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
 C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
+C:\Users\fabio.antunes\source\repos\MVC_Estudo\MVC_Estudo\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
